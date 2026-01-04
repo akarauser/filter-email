@@ -1,0 +1,9 @@
+{
+    "data_path": "folder\file.csv",
+    "max_voc": 20000,
+    "embedding_dim": 200,
+    "units": 15,
+    "kernel_size": 3,
+    "epochs": 10,
+    "batch_size": 32
+}
